@@ -1,0 +1,12 @@
+##############
+img_crawler.py
+##############
+
+Usage is pretty simple.
+
+$ python img_crawler.py
+
+It will read URLs from a file called "urls.txt" and process them. The images will be stored on the same folder the script resides, using proper subdirectories according to the domains used for the images.
+
+img_crawler is an extremely simple image crawler using BeatifulSoup library.
+
